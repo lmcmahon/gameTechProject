@@ -1,0 +1,12 @@
+# gameTechProject
+
+I cannot post the code to my cs378 Game Technology project,
+since it was for a class. Instead, I have uploaded some
+videos of the game.
+
+The game is basically 3D pong, but each player can fire
+projectiles which can stun the other paddle. You can also
+pick up a shield powerup (the green balls) which will 
+protect you from a single projectile hit. A normal paddle is
+yellow, a paddle with a shield is blue, and a stunned paddle is
+red. 
